@@ -9,38 +9,48 @@ Chitchatter juga Serverless, Ephemeral (Pesan tidak disimpan ke disk), Decentral
 
 ## Instalasi
 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+- Terlebih dahulu berkas source code akan di unduh dari direktori github
+- (Langkah instalasi dalam CLI.)
 
 
-## Konfigurasi (opsional)
+## Konfigurasi
 
-Pada Aplikasi Web "Chitchatter" tidak memerlukan setting server tambahan ntuk meningkatkan fungsi dan kinerja aplikasi karena ter-enkripsi oleh via WebRTC, selain itu seluruh history dari chat tidak akan tersimpan.
+Pada Aplikasi Web "Chitchatter" tidak memerlukan setting server tambahan untuk meningkatkan fungsi dan kinerja aplikasi karena ter-enkripsi oleh via WebRTC, selain itu seluruh history dari chat tidak akan tersimpan.
 
 
-##  Maintenance (opsional)
+##  Maintenance
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
+Pada Aplikasi Web "Chitchatter" tidak memerlukan/mengharuskan maintenance secara periodik untuk meningkatkan fungsi dan kinerja aplikasi karena history data/chat tidak tersimpan.
 
 
 ## Otomatisasi (opsional)
 
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
+Skrip shell untuk Aplikasi Web "Chitchatter" telah tersedia, sehingga tidak memerlukan tindakan lebih.
 
 
 ## Cara Pemakaian
 
 - Tampilan aplikasi web
-- Fungsi-fungsi utama
+![image](https://user-images.githubusercontent.com/104239245/196624435-43fb377e-7a0c-4339-8cc2-c4f84f2a81e4.png)
+![image](https://user-images.githubusercontent.com/104239245/196624701-60283556-fed0-434b-a3d0-23da4e0b9db5.png)
+
+- (Anonymous-Room-Chat)
+![image](https://user-images.githubusercontent.com/104239245/196624969-74004f9c-9d41-44f9-9485-96888e32afd1.png)
+![image](https://user-images.githubusercontent.com/104239245/196625155-5e4f6b0c-2652-4595-ada6-cdcbdca1736b.png)
+
+- Fungsi-fungsi utama :
+1. Menyediakan Anonymous Room-Chat
+2. Menyediakan undangan room-chat berbentuk link (invitation link)
+3. End-toend enkripsi chat
+4. Tema-mode (dark/light)
+
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
 ## Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
+- Aplikasi Web "Chitchatter" sebagai Anonymous-Room-Chat 
     - kelebihan
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
