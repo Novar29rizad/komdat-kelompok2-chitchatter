@@ -15,15 +15,7 @@ Chitchatter juga Serverless, Ephemeral (Pesan tidak disimpan ke disk), Decentral
 
 ## Konfigurasi (opsional)
 
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
+Pada Aplikasi Web "Chitchatter" tidak memerlukan setting server tambahan ntuk meningkatkan fungsi dan kinerja aplikasi karena ter-enkripsi oleh via WebRTC, selain itu seluruh history dari chat tidak akan tersimpan.
 
 
 ##  Maintenance (opsional)
