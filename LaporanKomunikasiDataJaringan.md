@@ -48,11 +48,11 @@ Skrip shell untuk Aplikasi Web "Chitchatter" telah tersedia, sehingga tidak meme
 ## Pembahasan
 
 - Aplikasi Web "**Chitchatter**" sebagai Website Room-Chat menyajikan instant-anonymous-room-chat bagi pengguna yang dapat digunakan dengan mudah dan cepat. Sehingga pengguna tidak perlu menyiapkan memori dan perangkat tertentu. Dengan penggunaan **Netflify** sebagai layanan hosting gratis dan cepat untuk mendeploy Chitchatter, memudahkan pengguna meng-install aplikasi web dan situs web statis.
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
+    - kelebihan : **Chitchatter** merupakan Web-App dengan Peer-to-peer, Serverless,  Ephemeral (Pesan tidak disimpan ke disk), Decentralized serta Self-hostable, sehingga tidak memerlukan proses yang sulit dalam proses instalasi. Layanan hosting **Netflify** menawarkan layanan hosting dan backend tanpa server untuk aplikasi web dan situs web statis, sehingga dalam proses deploy pun menunjang kemudahan **Chitchatter**  
+    - kekurangan : Karena bersifat Ephemeral, pesan chat **Chitchatter** tidak akan tersimpan kedalam disk, sehingga tidak terdapat history dari room-chat yang telah dibuat. dalam penggunaan Aplikasi Web pun hanya dibatasi pesan singkat saja, tanpa dapat mengirimkan siaran foto/video/atau media lainnya. Sedangkan kekurangan menggunakan **Netlify** redirect adalah tidak adanya report statistik.
+- Layanan yang juga memiliki fungsi aplikasi sejenis dengan **Chitchatter** yakni anonymous chat telegram, yang juga menawarkan Anonymous-Room-Chat bagi penggunanya
 
 
 ## Referensi
-
-Cantumkan tiap sumber informasi yang anda pakai.
+* Layanan Hosting Netlify (www.netlify.com)
+* Source Code jeremyckahn / chitchatter (https://github.com/jeremyckahn/chitchatter)
