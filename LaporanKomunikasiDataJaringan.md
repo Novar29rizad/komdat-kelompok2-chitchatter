@@ -19,13 +19,10 @@ Pada Aplikasi Web "Chitchatter" tidak memerlukan setting server tambahan untuk m
 
 
 ##  Maintenance
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
 Pada Aplikasi Web "Chitchatter" tidak memerlukan/mengharuskan maintenance secara periodik untuk meningkatkan fungsi dan kinerja aplikasi karena history data/chat tidak tersimpan.
 
 
 ## Otomatisasi (opsional)
-
 Skrip shell untuk Aplikasi Web "Chitchatter" telah tersedia, sehingga tidak memerlukan tindakan lebih.
 
 
@@ -50,7 +47,7 @@ Skrip shell untuk Aplikasi Web "Chitchatter" telah tersedia, sehingga tidak meme
 
 ## Pembahasan
 
-- Aplikasi Web "Chitchatter" sebagai Anonymous-Room-Chat 
+- Aplikasi Web "**Chitchatter**" sebagai Website Room-Chat menyajikan instant-anonymous-room-chat bagi pengguna yang dapat digunakan dengan mudah dan cepat. Sehingga pengguna tidak perlu menyiapkan memori dan perangkat tertentu. Dengan penggunaan **Netflify** sebagai layanan hosting gratis dan cepat untuk mendeploy Chitchatter, memudahkan pengguna meng-install aplikasi web dan situs web statis.
     - kelebihan
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
