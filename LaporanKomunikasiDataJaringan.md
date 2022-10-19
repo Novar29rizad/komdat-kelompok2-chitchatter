@@ -1,10 +1,11 @@
-# Aplikasi Web "XYZ"
+# Aplikasi Web "Chitchatter"
 
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
-
+Chitchatter adalah alat komunikasi gratis (open source (licensed under GPL v2)) yang dirancang dengan mempertimbangkan keamanan dan privasi. 
+Dengan open source (licensed under GPL v2), Encrypted (via WebRTC) dan secara Peer-to-peer sehingga dapat digubnakan kapan saja.
+Chitchatter juga Serverless, Ephemeral (Pesan tidak disimpan ke disk), Decentralized serta Self-hostable
 
 ## Instalasi
 
