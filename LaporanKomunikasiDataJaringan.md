@@ -42,7 +42,13 @@ Skrip shell untuk Aplikasi Web "Chitchatter" telah tersedia, sehingga tidak meme
 3. End-toend enkripsi chat
 4. Tema-mode (dark/light)
 
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+- Fitur yang disajikan :
+* Beberapa peers untuk tiap room (hanya dibatasi oleh jumlah koneksi pengguna oleh browser).
+* Nomor yang ditampilkan pada pojok kanan atas layar menunjukkan berapa banyak peers yang terhubung.
+* Dukungan markdown melalui react-markdown.
+*       Termasuk dukungan untuk syntax highlighting of code..
+* Dukungan pesan multiline (tahan Shift dan tekan Enter).
+* Tema gelap dan terang (Dark/light themes)
 
 
 ## Pembahasan
