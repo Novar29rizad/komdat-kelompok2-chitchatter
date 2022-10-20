@@ -7,10 +7,17 @@ Chitchatter adalah alat komunikasi gratis (open source (licensed under GPL v2)) 
 Dengan open source (licensed under GPL v2), Encrypted (via WebRTC) dan secara Peer-to-peer sehingga dapat digubnakan kapan saja.
 Chitchatter juga Serverless, Ephemeral (Pesan tidak disimpan ke disk), Decentralized serta Self-hostable
 
-## Instalasi
+## Instalasi (Netlify)
 
-- Terlebih dahulu berkas source code akan di unduh dari direktori github
-- (Langkah instalasi dalam CLI.)
+- Clone github https://github.com/jeremyckahn/chitchatter.git ke dalam storage pribadi kemudian fork ke github kelompok
+- Buka Netlify (Self-Hosting gratis)
+- Klik Add new site -> Import an existing project -> Github
+- Pilih Repository kelompok untuk di link ke dalam Netlify
+- Karena Netlify sudah langsung otomatisasi terhadap project, maka langsung klik Deploy site
+- Tunggu sampai progres deploy selesai
+- CLI akan berjalan secara otomatis, terlihat dari Deploy Log
+- Setelah muncul tulisan Site is live ✨ maka website siap digunakan
+- Link website berada di sebelah judul project
 
 
 ## Konfigurasi
