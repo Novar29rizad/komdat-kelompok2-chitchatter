@@ -55,7 +55,7 @@ Skrip shell untuk Aplikasi Web "Chitchatter" telah tersedia, sehingga tidak meme
 * Nomor yang ditampilkan pada pojok kanan atas layar menunjukkan berapa banyak peers yang terhubung.
 ![image](https://user-images.githubusercontent.com/104239245/196728195-7ada9dc3-6162-43e8-bf52-e8662699b515.png)
 * Dukungan markdown melalui react-markdown.
-*       Termasuk dukungan untuk syntax highlighting of code..
+    Termasuk dukungan untuk syntax highlighting of code..
 * Dukungan pesan multiline (tahan Shift dan tekan Enter).
 * Tema gelap dan terang (Dark/light themes) ![image](https://user-images.githubusercontent.com/104239245/196727880-5ddc25b0-a22d-4ae4-bb7e-85817b0c51a0.png)
 
